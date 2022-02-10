@@ -1,0 +1,7 @@
+a=-7
+if a>=0:
+	print('a is postive')
+else:
+   print("a is negative")
+Output
+a is negative
